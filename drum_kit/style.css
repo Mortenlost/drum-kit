@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+
+body{
+    background-color: rgb(39, 39, 39);
+    text-align: center;
+    font-family: Julee;
+    font-size: 25px;
+}
+
+
+.dk{
+    color: rgb(62, 187, 236);
+}
+
+.btn{
+    font-family: Julee;
+    color: rgb(251, 255, 255);
+    background-color: rgb(26, 21, 21);
+}
+
+.dk{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.cymbal {
+    text-align: center;
+    position: absolute;
+    top: 160px;
+    left: 166px;
+    display: block;
+
+}
+
+.floor_top {
+    position: absolute;
+    top: 53%;
+    left: 28%;
+    display: block;
+}
+
+.mid_tom {
+    position: absolute;
+    top: 43%;
+    left: 37%;
+    display: block;
+}
+
+.kick {
+    position: absolute;
+    top: 67%;
+    left: 37%;
+    display: block;
+}
+
+.high_tom {
+    position: absolute;
+    top: 42%;
+    left: 52%;
+    display: block;
+}
+
+.snare {
+    position: absolute;
+    top: 52.5%;
+    left: 60%;
+    display: block;
+}
+
+.hi_hat {
+    position: absolute;
+    top: 34%;
+    left: 71.5%;
+    display: block;
+}
